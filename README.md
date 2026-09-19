@@ -1,4 +1,4 @@
-# jsonSerializerFinal
+# json-serializer
 
 Lightweight Java project that demonstrates custom JSON serialization and deserialization without external JSON libraries.
 
